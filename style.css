@@ -323,7 +323,8 @@ iframe {
 ーーーーーーーーーーー　*/
 @media (max-width: 600px) {
   .page-title {
-     font-size: 2.5rem;
+     font-size: 2rem;
+     color: white;
   }
 
   /* HEADER */
@@ -339,6 +340,9 @@ iframe {
   .home-content {
     margin-top: 20%
   }
+  .home-content p {
+      color: white;
+   }
 
   .page-header {
      flex-direction: column;
