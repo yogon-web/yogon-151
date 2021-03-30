@@ -339,6 +339,7 @@ iframe {
   /* HOME */
   .home-content {
     margin-top: 20%
+    color:white;
   }
   .home-content p {
       color: white;
