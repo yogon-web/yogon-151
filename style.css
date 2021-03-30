@@ -325,6 +325,7 @@ iframe {
 @media (max-width: 600px) {
   .page-title {
      font-size: 2.5rem;
+     line-height:1.5;
   }
 
   /* HEADER */
